@@ -4,7 +4,7 @@
       <csd:codedType code="3" codingScheme="2.25.268234768686152474523705575269868869248.1"/>
       <csd:primaryName>District # 2</csd:primaryName>
       <csd:parent entityID="urn:uuid:D09919C1-FA5C-3A9F-8BD6-81FBA2B5EE90"/>
-      <csd:record created="2013-06-25T16:45:13.000+0000" updated="2012-05-11T09:06:47.775+0000" status="106-001" sourceDirectory="http://demo.dhis2.org"/>
+      <csd:record created="2013-06-25T16:45:13+0000" updated="2012-05-11T09:06:47.775+0000" status="106-001" sourceDirectory="http://demo.dhis2.org"/>
     </csd:organization>
     <csd:organization entityID="urn:uuid:CBF9F9DF-A653-3C36-B56A-37458EDC3D86">
       <csd:codedType code="3" codingScheme="2.25.268234768686152474523705575269868869248.1"/>
